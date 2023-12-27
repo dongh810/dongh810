@@ -9,8 +9,9 @@
 
 
 </div>
+
 ## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<div style="display:flex; flex-direction:column; align-items:flex-start;", align="middle">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
@@ -48,7 +49,6 @@
     </div>
 </div>
 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongh810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
