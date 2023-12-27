@@ -1,6 +1,6 @@
 <div align="middle">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=dong's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=6994CDEE&height=300&section=header&text=dong's%20github&fontSize=90)
 ---
 
 ![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongh810&show_icons=true&theme=ambient_gradient)
