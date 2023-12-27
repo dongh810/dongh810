@@ -1,6 +1,6 @@
 <div align="middle">
   
-![header](https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=200&section=header&text=dong's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=dong's%20github&fontSize=90)
 
 ## 💻 My Stats 💻
 
