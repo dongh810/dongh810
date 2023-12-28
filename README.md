@@ -3,7 +3,7 @@
 
 <div align="middle">
   
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=dong's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=81BEF7&fontColor=0000FF&height=200&section=header&text=dong's%20github&fontSize=80)
 
 ## 💻 My Stats 💻
 
@@ -11,7 +11,7 @@
 
 ## 💡 My Most Used Languages 💡 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongh810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongh810&title_color=0000FF&text_color=088A85&bg_color=000000&layout=compact)
 
 </div>
 
