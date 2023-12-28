@@ -53,7 +53,7 @@
       <!--   <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"> -->
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     </div>
-    <p><strong>Graph</strong></p>
+    <p>💡 My Most Used Languages 💡</p>
     <div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongh810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
